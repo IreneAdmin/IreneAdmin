@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IreneAdmin
+- 👋 Hi, I’m Irene
 - 👀 I’m interested in learning dockers and kubernetes
 - 🌱 I’m currently learning Open RAN
 - 💞️ I’m looking to collaborate on ...
